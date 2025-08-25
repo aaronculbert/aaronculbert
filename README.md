@@ -27,7 +27,3 @@ I build **AI tooling, automation, generative applications**, and explore indie g
 
 Open to collaborations & conversations around AI, startups, and games.  
 Find me via [stackedinjapan.com](https://stackedinjapan.com) or on LinkedIn. 
-
----
-
-✨ *Building in public from Okinawa.*
