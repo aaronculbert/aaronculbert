@@ -7,7 +7,7 @@ I build **AI tooling, automation, generative applications**, and explore indie g
 
 ## 🚀 Current Projects
 
-- **[Anystack](https://anystack.tech)** – building an **AI OS for startups**, automating product workflows and development.  
+- **[Anystack](https://anystack.tech)** – building focused software for niche markets.  
 - **Bored Dragon** – an indie game studio exploring roguelikes and RPGs.  
 - **Generative AI Experiments** – image, video, and creative applications powered by AI.  
 - **Stacked in Japan** – a podcast and content series on tech, tools, and founder life in Japan.  
