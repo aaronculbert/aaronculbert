@@ -1,29 +1,21 @@
-# 👋 Hey, I’m Aaron
+# 👋 Hey, I'm Aaron
 
-Founder & engineer based in Okinawa 🇯🇵.  
-I build **AI tooling, automation, generative applications**, and explore indie game development.
+Founder & engineer based in Okinawa 🇯🇵.
+I build focused software for niche markets — AI tooling, automation, and products for people underserved by the big platforms.
 
----
+## 🚀 What I'm building
 
-## 🚀 Current Projects
+- **[Anystack](https://anystack.tech)** — an independent software company in Okinawa, building focused software for niche markets. Shipping [Enichan](#), [AnyTravel](#), [Anyfront](#), and [Anybundle](#).
+- **[Find a Doc](https://findadoc.jp)** — volunteer CTO at a Japanese NPO improving multilingual access to healthcare. Open source.
+- **[Bored Dragon](https://bored-dragon.com)** — an independent game studio. RPGs and roguelikes; small games, built properly.
 
-- **[Anystack](https://anystack.tech)** – building focused software for niche markets.  
-- **Bored Dragon** – an indie game studio exploring roguelikes and RPGs.  
-- **Generative AI Experiments** – image, video, and creative applications powered by AI.  
-- **Stacked in Japan** – a podcast and content series on tech, tools, and founder life in Japan.  
+## ⚡ Focus areas
 
----
+- AI agents & automation
+- Shipping small, well-scoped products end to end
+- Indie games and experimental prototypes
 
-## ⚡ Focus Areas
+## 🌏 Let's connect
 
-- **AI agents & automation** – multiplying founder productivity  
-- **Generative media** – pushing boundaries in image, video, and music  
-- **Indie creation** – games, side projects, and experimental prototypes  
-- **Founder storytelling** – sharing insights & lessons through content  
-
----
-
-## 🌏 Let’s Connect
-
-Open to collaborations & conversations around AI, startups, and games.  
-Find me via [stackedinjapan.com](https://stackedinjapan.com) or on LinkedIn. 
+Open to collaborations and conversations around AI, startups, and games.
+More about me at [stackedinjapan.com](https://stackedinjapan.com), or on LinkedIn.
